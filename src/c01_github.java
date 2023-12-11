@@ -4,5 +4,8 @@ public class c01_github {
         int b=256;
 
         System.out.println("iki sayının toplamı" + (a+b));
+        //git add .
+        //git commit -m "mesaj"
+        //git push
     }
 }
